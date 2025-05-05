@@ -18,10 +18,15 @@ Une application mobile développée en **React Native avec Expo** qui utilise l'
 ##  Fichiers principaux du projet
 
 **App.js** Point d’entrée principal, configure la navigation
+
 **AppNavigator.js** Définition des routes (stack navigator)
+
 **SearchScreen.js** Écran de recherche avec formulaire et résultats
+
 **DetailScreen.js** Détail d’un morceau avec ajout aux favoris
+
 **FavoritesScreen.js** Liste des morceaux favoris enregistrés
+
 **itunesAPI.js** Service pour interroger l’API iTunes avec Axios
 
 ---
